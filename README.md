@@ -1,2 +1,2 @@
 # Pi_Berechnung
-Ein Script zur Berechnung der Nachkommerstellen von PI
+Ein Script zur Berechnung der Nachkommastellen von PI
