@@ -6,4 +6,6 @@ Ein Script zur Berechnung der Nachkommastellen von PI
 2. führe die main.py aus.
 3. Gebe die Anzahl der Nachkommastellen die du berechnen willst ein.
 
+
+# tech08mag
 <img src="https://github.com/Tech08mag/Tech08mag/blob/main/profile.jpeg" alt="Profile">
